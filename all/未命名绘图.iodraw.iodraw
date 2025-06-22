@@ -127,6 +127,9 @@
         <mxCell id="wqNX5OWtPMKgOthCGfmP-56" value="通：a&lt;sub&gt;n&lt;/sub&gt; = a&lt;sub&gt;1&lt;/sub&gt; +(n-1)d" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-58" value="Sn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
