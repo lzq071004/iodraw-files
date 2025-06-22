@@ -103,11 +103,14 @@
             <mxPoint x="238.82" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqNX5OWtPMKgOthCGfmP-48" value="顶点（+a,0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-48" value="顶点（&lt;u&gt;+&lt;/u&gt;a,0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240.5" y="389" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-50" value="顶点（0,&lt;u&gt;+&lt;/u&gt;a)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-51" value="长轴2a，短轴2b，焦距2 e=c/a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="450" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
