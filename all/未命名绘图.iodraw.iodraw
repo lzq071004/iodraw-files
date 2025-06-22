@@ -86,7 +86,10 @@
           <mxGeometry y="450" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-40" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;x&lt;sup&gt;2&lt;/sup&gt;/a&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt;/b&lt;sup&gt;2&lt;/sup&gt; = 1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;y&lt;sup&gt;2&lt;/sup&gt; /a&lt;sup&gt;2&lt;/sup&gt; + x&lt;sup&gt;2&lt;/sup&gt;/b&lt;sup&gt;2&lt;/sup&gt; = 1&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
