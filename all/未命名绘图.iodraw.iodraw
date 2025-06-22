@@ -67,7 +67,7 @@
         <mxCell id="wqNX5OWtPMKgOthCGfmP-29" value="x方/y方=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqNX5OWtPMKgOthCGfmP-30" value="x方/y方=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-30" value="&lt;sub&gt;x方/y方=1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="119" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-31" value="焦点（正负c,0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
