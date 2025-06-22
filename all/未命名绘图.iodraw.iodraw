@@ -112,8 +112,8 @@
         <mxCell id="wqNX5OWtPMKgOthCGfmP-51" value="长轴2a，短轴2b，焦距2 e=c/a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="450" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqNX5OWtPMKgOthCGfmP-52" value="渐近线y=&lt;u&gt;+b/2 x&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-52" value="渐近线y=+" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="243" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
