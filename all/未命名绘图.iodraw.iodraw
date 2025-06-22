@@ -68,13 +68,13 @@
           <mxGeometry y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;y2 /a2 + x2/b2 = 1&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="271" width="119" height="60" as="geometry" />
+          <mxGeometry x="121" y="271" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-31" value="焦点（正负c,0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-32" value="焦点（0,正负c)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="121" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
