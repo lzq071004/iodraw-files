@@ -7,7 +7,7 @@
         <mxCell id="wqNX5OWtPMKgOthCGfmP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wqNX5OWtPMKgOthCGfmP-1" target="wqNX5OWtPMKgOthCGfmP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wqNX5OWtPMKgOthCGfmP-1" value="焦点在x轴负半轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-1" value="焦点在x轴正半轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-2" value="y方=2px" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
