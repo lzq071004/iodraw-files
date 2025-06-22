@@ -52,8 +52,8 @@
         <mxCell id="wqNX5OWtPMKgOthCGfmP-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wqNX5OWtPMKgOthCGfmP-22" target="wqNX5OWtPMKgOthCGfmP-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wqNX5OWtPMKgOthCGfmP-22" value="焦点在y轴正半轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="90" width="114" height="60" as="geometry" />
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-22" value="焦点在y轴负半轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="358" y="90" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-23" value="焦点在y轴正半轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
