@@ -148,7 +148,7 @@
         <mxCell id="wqNX5OWtPMKgOthCGfmP-64" value="S&lt;sub&gt;n&lt;/sub&gt;=(a&lt;sub&gt;1&lt;/sub&gt;-a&lt;sub&gt;n&lt;/sub&gt;q)/1-q" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="329" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqNX5OWtPMKgOthCGfmP-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-66" value="等差中项 b&lt;sup&gt;2&lt;/sup&gt;=ac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
