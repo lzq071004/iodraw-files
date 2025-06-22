@@ -29,10 +29,13 @@
           <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-10" value="焦点（-p/2,0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-11" value="x=p/2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-17" value="焦点在y轴正半轴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
