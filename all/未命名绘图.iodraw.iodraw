@@ -89,7 +89,7 @@
           <mxGeometry x="240.5" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;y&lt;sup&gt;2&lt;/sup&gt; /a&lt;sup&gt;2&lt;/sup&gt; + x&lt;sup&gt;2&lt;/sup&gt;/b&lt;sup&gt;2&lt;/sup&gt; = 1&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1500" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqNX5OWtPMKgOthCGfmP-42" value="焦点（&lt;u&gt;+&lt;/u&gt;c,0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="329" width="120" height="60" as="geometry" />
@@ -102,6 +102,9 @@
             <mxPoint x="238.82" y="240" as="sourcePoint" />
             <mxPoint x="238.82" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wqNX5OWtPMKgOthCGfmP-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
